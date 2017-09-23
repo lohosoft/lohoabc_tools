@@ -1,0 +1,721 @@
+ruler 尺子  
+pencil 铅笔  
+eraser 橡皮 
+crayon 蜡笔  
+bag 包  
+pen 钢笔  
+pencil box 铅笔盒 
+book 书 
+No 不  
+your 你 （们）的  
+red 红色的  
+green 绿色的  
+yellow 黄色的 
+blue 蓝色的  
+black 黑色的
+brown 棕色的  
+white 白色的  
+orange 橙子,橙色的  
+face 脸  
+ear 耳朵  
+eye  眼睛  
+nose 鼻子 
+mouth 嘴
+arm 胳膊  
+hand 手  
+head 头 
+body 身体 
+leg 腿  
+foot  脚  
+duck 鸭子  
+pig 猪 
+cat 猫  
+bear 熊 
+dog 狗 
+elephant 大象  
+monkey 猴子 
+bird 鸟 
+tiger 老虎  
+panda 熊猫 
+zoo  动物园  
+bread 面包 
+juice 果汁  
+egg 鸡蛋 
+milk 牛奶 
+water 水 
+cake 蛋糕 
+fish 鱼,钓鱼
+rice 米饭 
+one 一  
+two 二
+three 三 
+four 四 
+five 五 
+six 六 
+seven 七 
+eight 八  
+nine 九  
+ten 十  
+plate 盘子
+Canada 加拿大  
+USA 美国  
+China 中国  
+she 她  
+student 学生 
+pupil 未成年人
+teacher 教师  
+boy 男孩 
+and 和  
+girl 女孩 
+new 新的 
+friend 朋友 
+today 今天 
+father 爸爸
+man 男人 
+woman 女人 
+mother 妈妈  
+sister 姐妹  
+brother 兄弟  
+grandmother  （外）祖母
+grandma  口语 （外）祖母 
+grandfather  （外）祖父  
+grandpa 口语 （外）祖父 
+family 家庭
+thin 瘦的  
+fat 胖的  
+tall 高的  
+short 矮的,短的  
+long 长的  
+small 小的  
+big 大的 
+giraffe 长颈鹿  
+so 这么,那么  
+children  （child的复数）儿童   
+tail 尾巴   
+on 在……上
+in 在……里  
+under 在……下面  
+chair 椅子
+cap 帽子  
+ball 球  
+car 小汽车 
+boat 小船 
+map 地图 
+toy 玩具 
+box 盒,箱 
+pear 梨 
+banana 香蕉
+watermelon 西瓜 
+strawberry 草莓 
+grape 葡萄 
+buy 买 
+fruit 水果 
+eleven 十一 
+twelve 十二
+thirteen 十三 
+fourteen 十四 
+fifteen 十五 
+sixteen 十六 
+seventeen 十七  
+eighteen 十八
+nineteen 十九 
+twenty 二十 
+kite 风筝  
+beautiful 美丽的
+classroom 教室 
+window 窗户 
+blackboard 黑板 
+light 电灯  
+picture 图画 
+door 门 
+fan 风扇
+desk  书桌  
+computer 计算机  
+wall 墙壁  
+floor 地板 
+really 真的 
+near 距离近
+TV 电视  
+clean 打扫  
+help 帮助  
+schoolbag 书包  
+maths 数学  
+English 英语  
+Chinese 中文 
+storybook 故事书  
+candy 糖果  
+notebook 笔记本  
+key 钥匙  
+lost 丢失
+so much 非常的  
+cute 可爱的  
+strong 强壮的   
+friendly 友好的  
+quiet 安静的  
+hair 头发
+shoe 鞋  
+glasses 眼镜   
+or 或者  
+right 对的  
+hat 帽子 
+her 她的 
+bedroom 卧室
+living 客厅   
+kitchen 厨房  
+bathroom 浴室  
+bed 床  
+phone 电话  
+table 桌子
+sofa 长沙发  
+fridge 冰箱  
+find 找到  
+them 他们  
+beef 牛肉  
+chicken 鸡肉 
+noodles 面条
+soup 汤  
+vegetable 蔬菜  
+chopsticks 筷子  
+bowl 碗  
+fork 餐叉   
+knife 刀 （复数knives）
+spoon 勺  
+dinner 晚餐  
+ready 准备好  
+help yourself 为自己取用  
+pass 给,递  
+try 尝试
+parents 父母 
+cousin 同辈表亲或堂亲 
+uncle 舅父,叔父,伯父,姨夫  
+aunt 姑母,姨母
+baby 婴儿 
+doctor 医生 
+driver 司机 
+farmer 农民 
+nurse 护士 
+people 人们
+but 但是 
+little 小的 
+puppy 小狗 
+football player 足球运动员 
+job 工作 
+basketball 篮球
+office 办公室  
+library 图书馆   
+playground  操场
+computer room 计算机室  
+art room  美术教室   
+music room  音乐教室  
+next to  紧挨着 
+homework 作业  
+class  班级  
+forty 四十  
+way 方向  
+breakfast 早餐 
+English class 英语课
+lunch 午饭 
+music class 音乐课   
+get up 起床  
+go home 回家
+go to school 去上学 
+go to bed 上床睡觉 
+over 结束 
+now 现在 
+o'clock ……点钟 
+kid 小孩
+thirty 三十 
+hurry 快点 
+come on 快,加油 
+just a minute 稍等一会儿 
+cold 寒冷的 
+cool 凉的
+warm 暖和的 
+sunny 晴朗的 
+windy 多风的 
+cloudy 多云的 
+snowy 下雪的 
+rainy 多雨的
+outside 在户外  
+be careful 小心  
+weather 天气  
+New York 纽约  
+how about ……怎么样
+degree 度数  
+world 世界  
+London 伦敦  
+Moscow 莫斯科  
+Singapore 新加坡 
+Sydney 悉尼
+fly 放,飞
+love 爱你的 
+tomato 西红柿 
+potato 土豆 
+green beans 豆角 
+carrot 胡萝卜 
+horse 马
+cow 奶牛 
+sheep 绵羊 
+hen 母鸡 
+these 这些 
+animal 动物 
+those 那些 
+garden 花园 
+farm 农场
+goat 山羊 
+eat 吃 
+clothes 衣服 
+pants 裤子 
+dress 连衣裙  
+skirt 女裙  
+coat 外衣
+sweater 毛衣
+sock 短袜 
+shorts 短裤 
+jacket 夹克衫 
+shirt 衬衫 
+yours 你的,你们的 
+whose 谁的
+pack 收拾 
+wait 等待  
+glove 手套  
+scarf 围巾  
+umbrella 伞  
+sunglasses 太阳镜
+pretty 美观的 
+expensive 昂贵的 
+cheap 便宜的 
+nice 好的 
+try on 试穿 
+size 尺码 
+of course 当然
+too 太 
+just 正好 
+how much 多少钱 
+eighty 八十 
+dollar 美元 
+sale 大减价 
+more 更多的 
+us 我们
+old 老的
+young 年轻的 
+funny 可笑的 
+kind 慈祥的 
+strict 严厉的 
+polite 有礼貌的 
+helpful 有用的
+hard working 工作努力的 
+clever 聪明的 
+shy 羞怯的 
+know 知道 
+our 我们的 
+Ms 女士 
+will 将要
+Sometimes 有时 
+robot 机器人 
+him 他 
+speak 说 
+finish 完成 
+Monday 星期一 
+Tuesday 星期二
+Wednesday 星期三  
+Thursday 星期四  
+Friday 星期五  
+Saturday 星期六  
+Sunday 星期日 
+weekend 周末 
+wash 洗
+watch TV 看电视  
+do homework 做作业    
+read books 看书  
+play football 踢足球  
+often 常常  
+park 公园  
+tired 疲倦的
+play sports 做体育运动 
+every 每一个 
+day 一天 
+schedule 工作计划 
+salad 沙拉
+sandwich 三明治 
+hamburger 汉堡包  
+ice cream 冰激凌  
+tea 茶  
+fresh 新鲜的  
+healthy 健康的
+delicious 美味的 
+hot 辣的,热的 
+sweet 甜的 
+drink 喝 
+thirsty 渴的 
+favourite 特别喜爱的 
+food 食物
+dear 亲爱的 
+onion 洋葱 
+dance 跳舞 
+draw 画
+cartoons 漫画 
+cook 烹饪  
+swim 游泳  
+party 聚会
+we will 我们将 
+next 下一个的 
+learn 学习
+wonderful 极好的 
+any 任何的 
+no problem 没问题 
+want 想要 
+send 发送,邮寄 
+email 电子邮件
+clock 时钟  
+water bottle 水瓶  
+bike 自行车  
+photo 照片  
+in front of 在……前面
+Between 在……中间 
+above 在……上面 
+beside 在旁边 
+behind 在……后面 
+there 表示存在
+grandparents 祖父母 
+their 他们的 
+lots of 许多 
+flower 花  
+move 移动,搬家 
+dirty 肮脏的
+mouse 老鼠
+everywhere 到处 
+live 居住 
+nature 大自然 
+forest 森林 
+river 河,江 
+lake 湖泊
+mountain 高山
+bridge 桥 
+hill 小山 
+tree 树木  
+building 建筑物 
+village 村庄 
+house 房子 
+go boating 去划船
+not 不是
+rabbit 兔子 
+high 高的  
+say 说 
+have a look 看一看 
+shopping 购物 
+when 什么时候 
+after 在 （时间）后 
+start 开始 
+usually 通常地 
+Spain 西班牙 
+late 迟 
+why 为什么 
+shop 买东西 
+work 工作 
+sound 听起来好像 
+also 还,也
+busy 忙的 
+need 需要 
+play 戏剧 
+letter 信 
+island 岛 
+always 一直 
+cave 山洞 
+win 获胜
+Spring 春天 
+summer 夏天  
+autumn 秋天  
+winter 冬天  
+season 季节 
+picnic 野餐 
+apple 苹果  
+snowman 雪人  
+which 哪一个 
+best 最
+snow 雪  
+good job 做得好  
+because 因为  
+vacation 假期  
+all 完全  
+pink 粉色 
+lovely 可爱的
+fall 落下,秋天  
+leaf （复数leaves）叶子  
+paint 用颜料绘画  
+January 一月  
+February 二月
+March 三月
+April 四月
+May 五月
+June 六月
+July 七月
+August 八月
+September 九月
+October 十月
+November 十一月 
+December 十二月 
+a few 一些 
+thing 事情 
+sports meet 运动会 
+Easter 复活节
+trip 旅行 
+year 年 
+plant 种植 
+contest 比赛 
+the Great Wall 长城 
+National Day 国庆节 
+game 游戏
+American 美国的 
+Thanksgiving 感恩节 
+Christmas 圣诞节 
+holiday 假日 
+roll 滚动 
+look for 寻找
+chocolate 巧克力 
+bunny 兔子
+by 在……之前 
+first （1st）第一
+second （2nd）第二
+third （3rd）第三  
+fourth （4th）第四  
+fifth （5th）第五  
+twelfth （12th）第十二
+sure 当然
+twentieth （20th）第二十 
+twenty first （21st）第二十一
+twenty second （22nd）第二十二
+twenty third （23rd）第二十三 
+thirtieth （30th）第三十 
+special 特殊的 
+fool 傻瓜
+kitten 小猫
+diary 日记 
+still 仍然 
+noise 声音,噪音 
+fur 浓密的软毛 
+open 开着的 
+walk 行走 
+mine 我的
+Yours 你 （们）的 
+his 他的 
+hers 她的 
+theirs 他们的 
+ours 我们的 
+climbing （正在）攀爬
+eating  （正在）吃  
+playing  （正在）玩耍  
+jumping  （正在）跳  
+drinking  （正在）喝        
+sleeping （正在）睡觉 
+each other 相互 
+excited 兴奋的 
+like 像……那样 
+bamboo 竹子
+its 他的
+quietly 小声的
+takes turns 按顺序来 
+show 给人看,演出 
+anything 任何事物
+else 另外 
+exhibition 展览  
+sushi 寿司 
+teach 教 
+Canadian 加拿大的 
+Spanish 西班牙的
+science 科学 
+museum 博物馆 
+post office 邮局 
+bookstore 书店 
+cinema 电影院 
+hospital 医院
+crossing 十字路口  
+turn left 左转弯  
+turn right 右转弯 
+ask 问 
+sir 先生 
+interesting 有趣的
+Italian 意大利的 
+restaurant 餐馆 
+pizza 比萨饼 
+street 街道 
+get 到达 
+gave 提供 
+feature 特点
+GPS 全球定位系统 
+follow 跟着 
+far 较远的 
+tell 告诉 
+on foot 步行 
+Scotland 苏格兰
+plane 飞机 
+taxi 出租车 
+ship 船 
+subway 地铁 
+train 火车 
+slow down 慢下来 
+stop 停下
+Mrs 夫人
+early 早到的 
+helmet 头盔 
+must 必须 
+pay attention to 注意 
+traffic lights 交通信号灯
+Munich 慕尼黑 
+Germany 德国 
+Alaska 阿拉斯加州 
+sled 雪橇 
+fast 快的 
+ferry 轮渡 
+bus 公共汽车
+visit 拜访 
+film 电影 
+supermarket 超市
+evening 晚上
+tonight 在今晚 
+tomorrow 明天 
+next week 下周 
+dictionary 词典 
+word book 单词书
+comic book 连环画册 
+postcard 明信片 
+lesson 课 
+space 太空 
+travel 旅行 
+half 一半 
+price 价格
+Mid Autumn Festival 中秋节 
+get together 聚会 
+mooncake 月饼 
+poem 诗 
+moon 月亮
+study 学习
+puzzle 谜 
+hiking 远足 
+pen pal 笔友 
+hobby 业余爱好 
+jasmine 茉莉 
+idea 主意 
+shall 征求意见
+Canberra 堪培拉 
+amazing 令人惊奇的 
+goal 射门 
+join 加入 
+club 俱乐部 
+share 分享
+worker 工人
+factory 工厂 
+postman 邮递员
+businessman 商人 
+police officer 警察 
+fisherman 渔民 
+coach 教练
+scientist 科学家 
+country 国家 
+head teacher 校长 
+sea 大海 
+university 大学 
+if 如果
+gym 体育馆 
+reporter 记者 
+use 使用 
+type 打字 
+quickly 迅速地 
+secretary 秘书 
+angry 生气的
+afraid 害怕 
+sad 难过的 
+worried 担心的 
+happy 高兴地 
+see a doctor 看病 
+wear 穿,戴
+breath 呼吸
+count 数 
+chase 追赶 
+mice 老鼠 （mouse的复数）
+bad 坏的 
+hurt 受伤 
+ill 有病 
+wrong 错误的,有毛病 
+should 应该 
+feel 感觉 
+well 健康 
+sit 坐 
+grass 草坪
+hear 听见 
+ant 蚂蚁 
+worry 担心 
+stuck 陷住 
+mud 泥 
+pull 拉 
+everyone 每人
+younger   更年轻的 （young）
+went   去 （go）
+older   更年长的 （old）
+stay   停留,呆,保持
+camp   野营
+taller   更高的 （tall）
+shorter  更矮的,更短的
+longer   更长的 （long）
+thinner   更瘦的 （thin）
+had a cold   感冒
+rode   骑
+heavier   更重的 （heavy）
+slept   睡觉 （sleep）
+bigger   更大的 （big）
+read   读
+smaller   更小的 （small） 
+stronger   更强壮的 （strong）
+last   最近的,上一个的
+take pictures   照相
+dinosaur   恐龙
+yesterday   昨天
+hall   大厅
+before   在...之前
+gift   礼物
+metre   米
+than   比 
+off   落下
+both   两个都 
+magazine   杂志
+Labour Day   劳动节
+kilogram   千克,公斤
+better   更好的 （well,good）
+mule   骡子
+countryside   乡村 
+faster   更快的 （fast）
+Turpan   吐鲁番
+lower   更低的 （low）
+hotel   旅馆
+can   能
+shadow   阴影,影子 
+fix   修理
+till   直到
+smarter   更聪明的 （smart）
+broken   破损的
+beach   沙滩
+become   变成 
+lamp    台灯
+basket   篮,框
+loud   大声的,喧闹的
+part   角色
+enjoy   喜爱
+lick   舔 
+laugh   笑
+dining hall   饭厅
+race   赛跑 
+nothing   没有什么
+think   想
+ago   以前 
+cycling   骑自行车运动
+cheetah   猎豹 
+ice skate   滑冰 
+wake   醒
+badminton   羽毛球运动
+dream   梦 
+star   星 
+easy   容易的
+look up   查阅
+Internet   互联网
+different   不同的 
+active   积极的,活跃的

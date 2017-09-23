@@ -1,0 +1,14 @@
+{
+  "name": "node_word2vec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "word2vec": "^1.1.2"
+  }
+}
